@@ -23,5 +23,7 @@ I'm now ui developer working in small projects under ssupervision of my mentors,
 <img alt="GitHub" width="50px" style="padding-right:20px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 </p>
 
+### 📊 Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnDyi2002)](https://github.com/anuraghazra/github-readme-stats)
 
 
