@@ -25,5 +25,6 @@ I'm now ui developer working in small projects under ssupervision of my mentors,
 
 ### 📊 Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnDyi2002)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
 
