@@ -17,7 +17,7 @@ I'm a student at the Faculty of Tourism and Hotels, but I love coding so I dedic
 <img alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
+<img alt="GitHub" width="50px" style="padding-right:20px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 </p>
 
 
