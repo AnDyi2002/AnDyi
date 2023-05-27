@@ -4,6 +4,8 @@
 
 I'm a student at the Faculty of Tourism and Hotels, but I love coding so I dedicated myself to learn coding the thing which i love and where my passion is belong, so I did hard to teach my self and searched a lot into so many resources so I can learn and practice by myself and I had some help from many friends they helped me a lot To become what I am now.
 
+I'm now ui developer working in small projects under ssupervision of my mentors, I enrolled in ALX Software Engineer and I learned a lot from there and I willing to achieve my dream to become  MERN Full stack developer and learn more and more and more ...♥
+
 <p align="center">
    <a href="https://github.com/AnDyi2002?tab=followers">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AnDyi2002?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
