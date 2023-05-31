@@ -27,6 +27,7 @@ I'm now UI developer working in small projects under ssupervision of my mentors,
    
    <a href="https://github.com/AnDyi2002/Cpp-Fundamentals" target="_blank">
 <img alt="C++" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" /></a>
+   
 <img alt="GitHub" width="50px" style="padding-right:20px;" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 </p>
 
